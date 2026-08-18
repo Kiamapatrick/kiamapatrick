@@ -237,7 +237,7 @@ debugging    something that worked fine yesterday
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kiamapatrick&show_icons=true&count_private=true&hide_border=true&title_color=0071E3&icon_color=0071E3&text_color=86868B&bg_color=00000000" width="100%" alt="Kiamapatrick's GitHub stats" />
+        <img src="https://ghstats.dev/api/card?username=Kiamapatrick&bg=00000000&text=86868B&title_color=0071E3&icon_color=0071E3" width="100%" alt="Kiamapatrick's GitHub stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://streak-stats.demolab.com/?user=Kiamapatrick&hide_border=true&background=00000000&stroke=0071E3&ring=0071E3&fire=0071E3&currStreakLabel=0071E3&sideLabels=86868B&currStreakNum=E5E5E7&sideNums=E5E5E7&dates=86868B" width="100%" alt="Kiamapatrick's GitHub streak stats" />
@@ -245,7 +245,7 @@ debugging    something that worked fine yesterday
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiamapatrick&hide_border=true&title_color=0071E3&text_color=86868B&bg_color=00000000&layout=compact" width="100%" alt="Kiamapatrick's most used languages" />
+        <img src="https://ghstats.dev/api/langs?username=Kiamapatrick&layout=compact&bg=00000000&text=86868B&title_color=0071E3" width="100%" alt="Kiamapatrick's most used languages" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiamapatrick&theme=react-dark&bg_color=00000000&color=0071E3&line=0071E3&point=FFFFFF&hide_border=true" width="100%" alt="Kiamapatrick's contribution activity graph" />
