@@ -240,7 +240,7 @@ debugging    something that worked fine yesterday
         <img src="https://ghstats.dev/api/card?username=Kiamapatrick&bg=00000000&text=86868B&title_color=0071E3&icon_color=0071E3" width="100%" alt="Kiamapatrick's GitHub stats" />
       </td>
       <td width="50%" align="center">
-        <img src="[https://streak-stats.demolab.com/?user=Kiamapatrick&hide_border=true&background=00000000&stroke=0071E3&ring=0071E3&fire=0071E3&currStreakLabel=0071E3&sideLabels=86868B&currStreakNum=E5E5E7&sideNums=E5E5E7&dates=86868B" width="100%" alt="Kiamapatrick's GitHub streak stats](https://github-readme-streak-stats-eight.vercel.app/?user=Kiamapatrick&hide_border=true&background=00000000&stroke=0071E3&ring=0071E3&fire=0071E3&currStreakLabel=0071E3&sideLabels=86868B&currStreakNum=E5E5E7&sideNums=E5E5E7&dates=86868B)" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kiamapatrick&hide_border=true&background=00000000&stroke=0071E3&ring=0071E3&fire=0071E3&currStreakLabel=0071E3&sideLabels=86868B&currStreakNum=E5E5E7&sideNums=E5E5E7&dates=86868B" />
       </td>
     </tr>
     <tr>
