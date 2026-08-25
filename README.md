@@ -244,7 +244,7 @@ debugging    something that worked fine yesterday
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td width="50%" align="center">
         <img src="https://ghstats.dev/api/langs?username=Kiamapatrick&layout=compact&bg=00000000&text=86868B&title_color=0071E3" width="100%" alt="Kiamapatrick's most used languages" />
       </td>
