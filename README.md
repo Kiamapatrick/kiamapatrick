@@ -237,26 +237,50 @@ debugging    something that worked fine yesterday
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://ghstats.dev/api/card?username=Kiamapatrick&bg=00000000&text=86868B&title_color=0071E3&icon_color=0071E3" width="100%" alt="Kiamapatrick's GitHub stats" />
+        <img
+          src="https://ghstats.dev/api/card?username=Kiamapatrick&bg=00000000&text=86868B&title_color=0071E3&icon_color=0071E3"
+          width="100%"
+          alt="Kiamapatrick's GitHub stats"
+        />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kiamapatrick&hide_border=true&background=00000000&stroke=0071E3&ring=0071E3&fire=0071E3&currStreakLabel=0071E3&sideLabels=86868B&currStreakNum=E5E5E7&sideNums=E5E5E7&dates=86868B" width="100%" alt="Kiamapatrick's GitHub streak" />
+
+  <td width="50%" align="center">
+        <img
+          src="https://github-readme-streak-stats-eight.vercel.app/?user=Kiamapatrick&hide_border=true&background=00000000&stroke=0071E3&ring=0071E3&fire=0071E3&currStreakLabel=0071E3&sideLabels=86868B&currStreakNum=E5E5E7&sideNums=E5E5E7&dates=86868B"
+          width="100%"
+          alt="Kiamapatrick's GitHub streak"
+        />
       </td>
     </tr>
 
   <tr>
       <td width="50%" align="center">
-        <img src="https://ghstats.dev/api/langs?username=Kiamapatrick&layout=compact&bg=00000000&text=86868B&title_color=0071E3" width="100%" alt="Kiamapatrick's most used languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiamapatrick&theme=github_dark" width="100%" alt="Kiamapatrick's GitHub activity" />
+
+  <img
+          src="https://ghstats.dev/api/langs?username=Kiamapatrick&layout=compact&bg=00000000&text=86868B&title_color=0071E3"
+          width="100%"
+          alt="Kiamapatrick's language distribution"
+        />
+
+  </td>
+
+  <td width="50%" align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiamapatrick&theme=github_dark"
+          width="100%"
+          alt="Kiamapatrick's GitHub activity"
+        />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/Kiamapatrick/Kiamapatrick/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/Kiamapatrick/Kiamapatrick/output/github-contribution-grid-snake.svg"
+    alt="Contribution snake animation"
+    width="100%"
+  />
 
 </div>
 
